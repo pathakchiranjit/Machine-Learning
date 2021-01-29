@@ -72,25 +72,7 @@ https://archive.ics.uci.edu/ml/datasets/letter+recognition
 
 <img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/Classification/Letter_Recognition/Pics/l2.jpg?raw=true"/>
 
-| Column Name   | Description                                               |
-| ------------- |:-------------                                            :| 
-| letter          | capital letter (26 values from A to Z) interval                                    | 
-| x-box   | horizontal position of box(integer)                                               |  
-| y-box      | vertical position of box (integer)                                   | 
-|width      | width of box (integer)        |   
-| high      | height of box (integer)                                          |
-| onpix            | total # on pixels (integer)   |
-| x-bar         | mean x of on pixels in box (integer) |
-| y-bar         | mean y of on pixels in box (integer)|
-| x2bar      | mean x variance (integer)                                          |
-| y2bar            | mean y variance (integer)   |
-| xybar         | mean x y correlation (integer) |
-| x2ybar         | mean of x * x * y (integer)|
-| xy2bar       | mean of x * y * y (integer)                                       |
-| xedge            | mean edge count left to right (integer)   |
-| xedgey         | correlation of xedge with y (integer) |
-| yedge            | mean edge count bottom to top (integer)   |
-| yedgex         | correlation of yedge with x (integer) |
 
+<img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/Classification/Letter_Recognition/Pics/l16.png?raw=true"/>
 
 <img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/Classification/Letter_Recognition/Pics/l9.jpg?raw=true"/>
