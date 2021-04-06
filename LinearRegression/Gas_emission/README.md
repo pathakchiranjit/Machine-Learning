@@ -1,5 +1,9 @@
 # Machine Learning Model build up for a Linear Regression containing gas emmissioin dataset
 
+# Own Article link:
+https://www.linkedin.com/posts/chiranjit-pathak-2261892a_linear-regression-with-feature-engineering-activity-6751702790420078592-SMnT
+
+
 
 <img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/LinearRegression/Gas_emission/Pics/pic1.jpg?raw=true"/>
 
