@@ -1,5 +1,9 @@
 # Machine Learning Model building for Letter Recognition dataset using multiclass classification
 
+# Own Article link:
+https://www.linkedin.com/posts/chiranjit-pathak-2261892a_multiclass-classifier-activity-6762608670409814016-V_Aa
+
+
 
 <img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/Classification/Letter_Recognition/Pics/l10.gif?raw=true" />
 
