@@ -1,5 +1,9 @@
 # Machine Learning Model build up for a Binary Classification containing Machine Failure dataset
 
+# Own Article link:
+https://www.linkedin.com/posts/chiranjit-pathak-2261892a_binary-classification-on-imbalanced-data-activity-6745888725433118721-uUJb
+
+
 
 <img src="https://github.com/pathakchiranjit/Machine-Learning/blob/main/Classification/Machine_Failure/Pics/predictive_model.jpg?raw=true" />
 
